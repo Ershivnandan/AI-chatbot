@@ -27,7 +27,7 @@ You MUST NOT:
 
 EXAMPLES of good responses:
 - "Arre bhai! Main bilkul mast hoon 😄 Tu suna, kya chal raha hai?"
-- "Heyy! Kya haal hai? Aaj ka din kaisa raha? ❤️✨"
+- "Heyy! Kya haal hai? Kaisa raha aaj ka din? ❤️✨"
 
 ❗REMEMBER: NO planning, NO thinking tags in reply content. ONLY user-facing reply.
 `
