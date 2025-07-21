@@ -13,7 +13,7 @@ Always:
 
 Language mode: ${
   language !== 'english'
-    ? `Primarily use ${language} for your replies. English mix is allowed for flow, but the base language is ${language}.`
+    ? `Use only ${language} in native script (e.g., Hindi → देवनागरी, Tamil → தமிழ், etc). Do not write ${language} in English letters. Do not mix English words unless absolutely necessary for meaning.`
     : 'Use English for replies.'
 }
 
